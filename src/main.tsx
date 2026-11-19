@@ -101,7 +101,7 @@ function App() {
               <button className="verify-button" onClick={enter}>
                 VERIFY ACCESS <ArrowRight size={18} />
               </button>
-              <div className="hint">Demo credentials: <b>LIB-2026</b> / <b>LIBRARY</b></div>
+              <div className="hint">Demo credentials: <b>LIB-2026</b> / <b>yuv12345</b></div>
             </motion.section>
             <div className="footer-note">ENCRYPTED SESSION <span /> AUTHORIZED USERS ONLY</div>
           </motion.main>
